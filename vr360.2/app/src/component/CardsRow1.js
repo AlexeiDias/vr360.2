@@ -37,51 +37,47 @@ export default class CardsRow1 extends Component {
       <MDBIframe src='https://www.youtube.com/embed/bVtooZHm8FU' />
     </MDBContainer> */}
     <Card.Body>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title><a href='https://thedutchflathotel.com/' target="_blank">Dutch Flat Hotel</a></Card.Title>
       <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This content is a little bit longer.
+      Um dos hoteis mais antigos da California - EUA. Desde 1852
       </Card.Text>
     </Card.Body>
     <Card.Footer>
-      <small className="text-muted">Last updated 3 mins ago</small>
+      <small className="text-muted"></small>
     </Card.Footer>
   </Card>
   <Card>
   <MDBContainer className="text-center">
-      <MDBIframe src='https://my.matterport.com/show/?m=nvigrEgwRHz&brand=0' />
+      <MDBIframe src='https://my.matterport.com/show/?m=MwSJpTXtdSg&brand=0' />
     </MDBContainer>
     {/* <MDBContainer className="text-center">
       <MDBIframe src='https://my.matterport.com/show/?m=nvigrEgwRHz&brand=0' />
     </MDBContainer> */}
     <Card.Body>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title>Sua Imobiliária aqui</Card.Title>
       <Card.Text>
-        This card has supporting text below as a natural lead-in to additional
-        content.{' '}
+      Divulgue seu business neste espaço
       </Card.Text>
     </Card.Body>
     <Card.Footer>
-      <small className="text-muted">Last updated 3 mins ago</small>
+      <small className="text-muted"></small>
     </Card.Footer>
   </Card>
   <Card>
   <MDBContainer className="text-center">
-      <MDBIframe src='https://my.matterport.com/show/?m=mRe8kYkJx7z' />
+      <MDBIframe src='https://my.matterport.com/show/?m=1eZ63ihud36&brand=0' />
     </MDBContainer>
     {/* <MDBContainer className="text-center">
       <MDBIframe src='https://my.matterport.com/show/?m=mRe8kYkJx7z' />
     </MDBContainer> */}
     <Card.Body>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title>Memórias Virtuais</Card.Title>
       <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This card has even longer content than the first to
-        show that equal height action.
+        Eternize momentos especiais e visite sua memorias.
       </Card.Text>
     </Card.Body>
     <Card.Footer>
-      <small className="text-muted">Last updated 3 mins ago</small>
+      <small className="text-muted"></small>
     </Card.Footer>
   </Card>
 </CardDeck>

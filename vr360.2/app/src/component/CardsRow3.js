@@ -56,7 +56,7 @@ export default class CardsRow3 extends Component {
     </Card>
     <Card>
     <MDBContainer className="text-center">
-        <MDBIframe src='https://my.matterport.com/show/?m=v3NVjC7gaXE&brand=0' />
+        <MDBIframe src='https://my.matterport.com/show/?m=MwSJpTXtdSg&brand=0' />
       </MDBContainer>
       <Card.Body>
         <Card.Title>Card title</Card.Title>

@@ -21,7 +21,7 @@ export default class ContactCard extends Component {
       <MDBContainer fluid className="text-center text-md-left ">
         <MDBRow>
           <MDBCol md="6">
-            <h5 className="title"> follow us</h5>
+            <h5 className="title"> Blumenau, Santa Catarina, BR</h5>
             {/* <p>
     Please follow us 
     </p> */}
@@ -34,10 +34,10 @@ export default class ContactCard extends Component {
               <a href="https://www.instagram.com/3dguest/" target="_blank"><FontAwesomeIcon icon={["fab", "github"]} />Instagram</a>
               </li> */}
               <li className="list-unstyled">
-              <a href="mailto:3dguestcontact@gmail.com">3dguestcontact@gmail.com</a>
+              <a href="mailto:mailto:info@rv360.com.br">info@rv360.com.br</a>
               </li>
               <li className="list-unstyled">
-                <a href="tel:1-415-656-5950">415 - 6565950</a>
+              <a href="tel:47-99691-6360">+ 55 47 99691 6360</a>
               </li>
               {/* <li className="list-unstyled">
                 <a href="https://www.youtube.com">youtube</a>
@@ -48,7 +48,7 @@ export default class ContactCard extends Component {
       </MDBContainer>
       <div className="footer-copyright text-center py-3">
         <MDBContainer fluid>
-          &copy; {new Date().getFullYear()} Copyright: <a href="https://www.mdbootstrap.com"> MDBootstrap.com </a>
+          &copy; {new Date().getFullYear()} Copyright: <a href="vr360.com.br"> vr360.com.br </a>
         </MDBContainer>
       </div>
     </MDBFooter>

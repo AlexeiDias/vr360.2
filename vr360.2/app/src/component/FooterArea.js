@@ -29,10 +29,10 @@ export default class FooterArea extends Component {
                 <Styles>
                 <div className="FooterStyles">
                 <Tabs defaultActiveKey="home" >
-  <Tab eventKey="home" title="Contact">
+  <Tab eventKey="home" title="Contato">
     <ContactCard />
   </Tab>
-  <Tab eventKey="profile" title="About">
+  <Tab eventKey="profile" title="Sobre a vr360">
   <AboutCard />
   </Tab>
   {/* <Tab eventKey="contact" title="Pricing" >

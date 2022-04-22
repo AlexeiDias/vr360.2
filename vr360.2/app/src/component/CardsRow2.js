@@ -29,17 +29,16 @@ export default class CardsRow2 extends Component {
         <MDBIframe src='https://my.matterport.com/show/?m=LgdXpU1keku' />
       </MDBContainer>
       <Card.Body>
-        <Card.Title>Card title</Card.Title>
+        <Card.Title>Turismo virtual</Card.Title>
         <Card.Text>
-          This is a wider card with supporting text below as a natural lead-in to
-          additional content. This content is a little bit longer.
+          Conheça lugares maravilhosos como se estivesse lá.
         </Card.Text>
       </Card.Body>
       <Card.Footer>
-        <small className="text-muted">Last updated 3 mins ago</small>
+        <small className="text-muted"></small>
       </Card.Footer>
     </Card>
-    <Card>
+    {/* <Card>
     <MDBContainer className="text-center">
         <MDBIframe src='https://my.matterport.com/show/?m=tFTySRT43ym&brand=0' />
       </MDBContainer>
@@ -53,8 +52,8 @@ export default class CardsRow2 extends Component {
       <Card.Footer>
         <small className="text-muted">Last updated 3 mins ago</small>
       </Card.Footer>
-    </Card>
-    <Card>
+    </Card> */}
+    {/* <Card>
     <MDBContainer className="text-center">
         <MDBIframe src='https://my.matterport.com/show/?m=HPwSn5mzJ2F' />
       </MDBContainer>
@@ -69,7 +68,7 @@ export default class CardsRow2 extends Component {
       <Card.Footer>
         <small className="text-muted">Last updated 3 mins ago</small>
       </Card.Footer>
-    </Card>
+    </Card> */}
   </CardDeck>
   </Styles>             
                   
